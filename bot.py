@@ -98,7 +98,7 @@
 # # Main function to run the bot
 # def main():
 #     # Replace with your Telegram bot token
-#     BOT_TOKEN = "7995379796:AAF_Imy8fPlh-gWUNXkckY5nexttTlSdpGA"
+#     BOT_TOKEN = "7995379796:AAF_Imy8fPlh-gWUNXkckY5nexttTlSdpGA1"
     
 #     # Initialize application
 #     application = Application.builder().token(BOT_TOKEN).build()
@@ -253,7 +253,7 @@
 
 # # Main function
 # def main():
-#     TOKEN = "7995379796:AAF_Imy8fPlh-gWUNXkckY5nexttTlSdpGA"  # Replace with your bot token
+#     TOKEN = "7995379796:AAF_Imy8fPlh-gWUNXkckY5nexttTlSdpGA1"  # Replace with your bot token
 #     application = ApplicationBuilder().token(TOKEN).build()
 
 #     # Add handlers
@@ -376,7 +376,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # Main function
 def main():
     # Replace with your Telegram bot token
-    TOKEN = "7995379796:AAF_Imy8fPlh-gWUNXkckY5nexttTlSdpGA"
+    TOKEN = "7995379796:AAF_Imy8fPlh-gWUNXkckY5nexttTlSdpGA1"
     application = Application.builder().token(TOKEN).build()
 
     # Add handlers
